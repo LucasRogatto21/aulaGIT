@@ -1,2 +1,2 @@
 # GIt na prática - Terminal
-Aula prática de gir com o professor Júnior Gonçalves
+Aula prática de git com o professor Júnior Gonçalves
